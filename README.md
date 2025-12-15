@@ -14,3 +14,5 @@ npm run dev
 # Build for production
 npm run build
 ```
+
+Link to build: https://alexosaulenko.github.io/avatar-generator/dist/
